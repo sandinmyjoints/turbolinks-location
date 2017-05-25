@@ -1,0 +1,12 @@
+{
+  "name": "turbolinks-location",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": ["turbolinks", "location", "turbolinks location"],
+  "author": "William Bert <william.bert@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "boolify": "1.0.1"
+  }
+}
