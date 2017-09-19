@@ -1,13 +1,17 @@
 {
   "name": "turbolinks-location",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/sandinmyjoints/turbolinks-location"
   },
   "main": "index.js",
-  "keywords": ["turbolinks", "location", "turbolinks location"],
+  "keywords": [
+    "turbolinks",
+    "location",
+    "turbolinks location"
+  ],
   "author": "William Bert <william.bert@gmail.com>",
   "license": "ISC",
   "dependencies": {
