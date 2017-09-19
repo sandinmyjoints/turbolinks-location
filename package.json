@@ -2,6 +2,10 @@
   "name": "turbolinks-location",
   "version": "1.0.0",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandinmyjoints/turbolinks-location"
+  },
   "main": "index.js",
   "keywords": ["turbolinks", "location", "turbolinks location"],
   "author": "William Bert <william.bert@gmail.com>",
